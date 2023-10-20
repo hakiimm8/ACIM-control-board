@@ -1716,8 +1716,8 @@
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 6f6997bd-8b8d-4b63-b184-7867f23ab452)
   )
-  (text "ACS VCC \nSupply = 6V\n" (at 285.75 64.135 0)
-    (effects (font (size 1.5 1.5) (thickness 0.254) bold) (justify left bottom))
+  (text "ACS VCC Supply = 6V\n" (at 299.085 64.77 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 72c955be-d8a0-40c2-80d5-5deb19c122fe)
   )
   (text "R_SD is a pull-up resistor to prevent floating logic. \nValue: 1k or 2.2 k for 3.3V or 5V MCU supply\n"
@@ -1737,6 +1737,10 @@
   (text "RC time constant about 100 ns" (at 40.64 109.22 0)
     (effects (font (size 1.27 1.27) (thickness 0.4) bold) (justify left bottom))
     (uuid bad213ca-6f9f-4649-9a9d-67e153d0a74e)
+  )
+  (text "CF = 1nF\nCBypass = 0.1 uF" (at 299.085 69.85 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
+    (uuid bbe1a91d-5df9-460b-8162-22101fbfcba5)
   )
   (text "Rsf, Csf used to prevent \nprotection circuit malfunction"
     (at -13.335 56.515 0)

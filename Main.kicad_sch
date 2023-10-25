@@ -256,7 +256,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 411c259b-3fdf-42a4-b1dc-bccd2acfc8e5)
-    (property "Sheetname" "Power supply" (at 86.36 45.0084 0)
+    (property "Sheetname" "Rectifier & Power supply" (at 86.36 45.0084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "Rectifier.kicad_sch" (at 86.36 63.4496 0)

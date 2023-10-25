@@ -1571,7 +1571,7 @@
     (property "Value" "GBUE2560-M3_P" (at 53.34 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "GBUE2560M3P" (at 53.34 16.84 0)
+    (property "Footprint" "SamacSys_Parts:GBUE2560M3P" (at 53.34 16.84 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://www.vishay.com/docs/87633/gbue2560.pdf" (at 53.34 -83.16 0)

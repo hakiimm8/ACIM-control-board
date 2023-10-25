@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 1630e8b8-53b9-4f21-a160-d70af60ac91d)
+  (uuid b7845afa-35a3-4578-9a1b-91207e5b6d09)
 
   (paper "A4")
 
@@ -824,7 +824,7 @@
     (property "Value" "CA-IS3731LN" (at 144.145 106.68 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SOIC127P600X175-16N" (at 156.845 206.045 0)
+    (property "Footprint" "SamacSys_Parts:SOIC127P600X175-16N" (at 156.845 206.045 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Chipanalog-CA-IS3731LN_C428886.pdf" (at 156.845 306.045 0)
@@ -1039,7 +1039,7 @@
     (property "Value" "CA-IS3731LN" (at 144.78 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SOIC127P600X175-16N" (at 157.48 145.085 0)
+    (property "Footprint" "SamacSys_Parts:SOIC127P600X175-16N" (at 157.48 145.085 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Chipanalog-CA-IS3731LN_C428886.pdf" (at 157.48 245.085 0)

@@ -457,6 +457,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -483,14 +491,6 @@
     [
       "411c259b-3fdf-42a4-b1dc-bccd2acfc8e5",
       "Rectifier & Power supply"
-    ],
-    [
-      "c0169b62-176f-4866-a331-3a8c43895cde",
-      "Filter"
-    ],
-    [
-      "54d8d50d-2123-4b99-a096-d151991aaea6",
-      "High speed isolator"
     ]
   ],
   "text_variables": {}

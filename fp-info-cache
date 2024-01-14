@@ -1,4 +1,4 @@
-21869233651156462
+21874348975637046
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51532,7 +51532,7 @@ STM32F407G-DISC1-SHIELD
 
 0
 100
-50
+100
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -83454,6 +83454,13 @@ rotary encoder
 7
 6
 SamacSys_Parts
+GBUE2560M3P
+GBUE2560-M3/P-3
+Bridge Rectifier
+0
+4
+4
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
@@ -83468,8 +83475,22 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
+SOIC127P600X175-16N
+SOIC16_2
+Integrated Circuit
+0
+16
+16
+SamacSys_Parts
 STGIPQ3H60THL
 STGIPQ3H60T-HL-9
+Integrated Circuit
+0
+26
+26
+SamacSys_Parts
+STGIPQ3H60THZ
+N2DIP-26L
 Integrated Circuit
 0
 26
